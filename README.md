@@ -22,15 +22,16 @@ Documentation & Resources
  - Roadmap: https://www.dachain.tech/#roadmap
 
 Tokenomics
- - Public Sale: 12.5%
+ - Public Sale: 10%
+ - Marketing: 7.5%
  - Institutional Investors: 12.5%
- - Market Making & Liquidity: 15%
- - Team & Advisors: 15%
+ - Team: 15%
  - Private Investors: 17.5%
  - Reserve: 15%
  - Grant Program: 5%
- - Enterprise Incentives: 7.5%
-
+ - Enterprise Incentives: 5%
+ - Market Making & Liquidity: 12.5%
+ 
 **Community & Social**
 
 Stay connected and get the latest updates:
