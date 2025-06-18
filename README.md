@@ -5,8 +5,8 @@ DAC is a Layer-1 blockchain built to align investor rewards with stable, predict
 
 ## Features  
 - **Dual Asset Design**  
-  - _DACC_ (currency coin): minted on-demand to stabilize transaction fees  
-  - _DACT_ (governance token): scarce supply to reward miners and investors  
+  - _DACT_ (governance token): required reward DAC miners and investors  
+  - _DACC_ (currency coin): mined by DAC Nodes to stabilize transaction fees  
 - **Predictable, Low Fees**  
   Transaction costs grow only with network usage, enabling SMEs to budget confidently.  
 - **Quantum-Proof Security**  
