@@ -19,7 +19,6 @@ DAC is a Layer-1 blockchain built to align investor rewards with stable, predict
 Documentation & Resources
  - Official website: https://www.dachain.tech/
  - Whitepaper: https://whitepaper.dachain.tech/
- - Roadmap: https://www.dachain.tech/#roadmap
 
 Tokenomics
  - Public Sale: 10%
